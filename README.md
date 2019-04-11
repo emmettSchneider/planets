@@ -3,7 +3,8 @@ Practice using Lists in C#
 
 In the Main method, place the following code
 
-1. List<string> planetList = new List<string>(){"Mercury", "Mars"};
+```List<string> planetList = new List<string>(){"Mercury", "Mars"};```
+
 1. Add() Jupiter and Saturn at the end of the list.
 1. Create another List that contains that last two planet of our solar system.
 1. Combine the two lists by using AddRange().
